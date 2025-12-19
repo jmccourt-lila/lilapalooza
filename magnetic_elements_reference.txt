@@ -1,0 +1,107 @@
+MOST MAGNETIC ELEMENTS - REFERENCE LIST
+========================================
+
+This reference list provides typical magnetic moments per atom (in Bohr magnetons, μB)
+for the most magnetic elements. Values are approximate and can vary depending on
+crystal structure, temperature, and magnetic ordering.
+
+RARE EARTH ELEMENTS (Highest Magnetic Moments)
+-----------------------------------------------
+Element    Symbol    Atomic #    Typical μ/atom (μB)    Notes
+-------------------------------------------------------------------
+Dysprosium  Dy        66          10.6                  Highest among rare earths
+Holmium     Ho        67          10.6                  Very high moment
+Terbium     Tb        65          9.3                   High moment
+Erbium      Er        68          9.1                   High moment
+Gadolinium  Gd        64          7.6                   Ferromagnetic below 293 K
+Thulium     Tm        69          7.1                   High moment
+Ytterbium   Yb        70          4.5                   Variable
+Europium    Eu        63          7.0                   High moment
+Samarium    Sm        62          0.7                   Low due to crystal field
+Neodymium   Nd        60          3.3                   Moderate moment
+Praseodymium Pr       59          3.6                   Moderate moment
+Cerium      Ce        58          2.3                   Variable
+Lanthanum   La        57          0.0                   Non-magnetic
+
+3d TRANSITION METALS (Common Magnetic Elements)
+------------------------------------------------
+Element    Symbol    Atomic #    Typical μ/atom (μB)    Notes
+-------------------------------------------------------------------
+Manganese   Mn        25          5.0                   High moment, antiferromagnetic
+Iron        Fe        26          2.2                   Most common magnetic element
+Cobalt      Co        27          1.7                   High Curie temperature
+Nickel      Ni        28          0.6                   Moderate moment
+Chromium    Cr        24          0.5                   Antiferromagnetic
+Vanadium    V         23          0.0-1.0               Variable
+Titanium    Ti        22          0.0                   Non-magnetic
+Scandium    Sc        21          0.0                   Non-magnetic
+Copper      Cu        29          0.0                   Non-magnetic
+Zinc        Zn        30          0.0                   Non-magnetic
+
+4d TRANSITION METALS
+---------------------
+Element    Symbol    Atomic #    Typical μ/atom (μB)    Notes
+-------------------------------------------------------------------
+Ruthenium   Ru        44          0.0-1.0               Weakly magnetic
+Rhodium     Rh        45          0.0                   Non-magnetic
+Palladium   Pd        46          0.0                   Non-magnetic (paramagnetic)
+Technetium  Tc        43          0.0-0.5               Weakly magnetic
+
+5d TRANSITION METALS
+---------------------
+Element    Symbol    Atomic #    Typical μ/atom (μB)    Notes
+-------------------------------------------------------------------
+Osmium      Os        76          0.0-0.5               Weakly magnetic
+Iridium     Ir        77          0.0                   Non-magnetic
+Platinum    Pt        78          0.0                   Non-magnetic (paramagnetic)
+
+ACTINIDES (Radioactive, High Moments)
+--------------------------------------
+Element    Symbol    Atomic #    Typical μ/atom (μB)    Notes
+-------------------------------------------------------------------
+Curium      Cm        96          ~7.0                  High moment
+Americium   Am        95          ~6.0                  High moment
+Plutonium   Pu        94          ~0.5                  Variable
+Neptunium   Np        93          ~2.8                  Moderate moment
+Uranium     U         92          ~0.5                  Variable
+
+NOTES:
+------
+1. Magnetic moments are given in Bohr magnetons (μB)
+2. Values are for elemental forms at low temperatures
+3. In compounds, moments can vary significantly
+4. Rare earth elements have the highest moments due to unpaired 4f electrons
+5. 3d transition metals (Fe, Co, Ni) are most commonly used in applications
+6. Magnetic ordering (ferromagnetic, antiferromagnetic, etc.) affects net moment
+
+TOP 10 ELEMENTS BY MAGNETIC MOMENT PER ATOM:
+---------------------------------------------
+1.  Dysprosium (Dy)     - 10.6 μB/atom
+2.  Holmium (Ho)        - 10.6 μB/atom
+3.  Terbium (Tb)        - 9.3 μB/atom
+4.  Erbium (Er)         - 9.1 μB/atom
+5.  Gadolinium (Gd)     - 7.6 μB/atom
+6.  Thulium (Tm)        - 7.1 μB/atom
+7.  Europium (Eu)       - 7.0 μB/atom
+8.  Manganese (Mn)      - 5.0 μB/atom
+9.  Ytterbium (Yb)      - 4.5 μB/atom
+10. Neodymium (Nd)      - 3.3 μB/atom
+
+MOST COMMONLY USED MAGNETIC ELEMENTS IN APPLICATIONS:
+------------------------------------------------------
+1. Iron (Fe)            - 2.2 μB/atom  (Most common, low cost)
+2. Cobalt (Co)          - 1.7 μB/atom  (High Curie temperature)
+3. Nickel (Ni)          - 0.6 μB/atom  (Common in alloys)
+4. Gadolinium (Gd)      - 7.6 μB/atom  (Rare earth, high moment)
+5. Neodymium (Nd)       - 3.3 μB/atom  (Used in NdFeB magnets)
+6. Dysprosium (Dy)      - 10.6 μB/atom (Used in high-performance magnets)
+
+REFERENCES:
+-----------
+- Materials Project Database
+- Kittel, C. "Introduction to Solid State Physics"
+- Coey, J.M.D. "Magnetism and Magnetic Materials"
+- Various experimental and theoretical studies
+
+Last updated: 2024
+
